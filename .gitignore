@@ -16,3 +16,7 @@
 !/licenses/
 /licenses/*
 !/licenses/acme-GPL-3.0.txt
+!/fonts/
+/fonts/*
+!/fonts/ProFontExtended.ttf
+!/fonts/LICENSE.txt
