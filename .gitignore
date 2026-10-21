@@ -1,0 +1,18 @@
+# Track config source explicitly; local state and packages belong outside Git.
+/*
+!/.gitignore
+!/README.md
+!/early-init.el
+!/init.el
+!/cl-highlight.el
+!/meow-config.el
+!/themes/
+/themes/*
+!/themes/acme-theme.el
+!/themes/kanagawa-dragon-theme.el
+!/tests/
+/tests/*
+!/tests/cl-highlight-test.el
+!/licenses/
+/licenses/*
+!/licenses/acme-GPL-3.0.txt
